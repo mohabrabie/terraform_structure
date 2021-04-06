@@ -1,0 +1,35 @@
+- hosts: all
+  remote_user: ubuntu
+  become: 'True'
+  tasks:
+    - name: update apt
+      apt:
+        update_cache: 'True'
+
+    - name: create jenkins dir
+      file:
+        name: jenkins_home
+        state: directory
+        mode: 0777
+
+    - name: install open jdk 8
+      apt:
+        name: openjdk-8-jdk
+        state: present
+
+    - name: install docker
+      apt:
+        name: docker.io
+        state: present
+
+    - name: Start docker service
+      service:
+        name: docker
+        state: started
+        
+    - name: change permission for docker.sock
+      ansible.builtin.file:
+        path: /var/run/docker.sock
+        mode: '0777'
+    
+    
