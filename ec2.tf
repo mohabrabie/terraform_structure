@@ -16,7 +16,7 @@ resource "aws_instance" "nginx" {
   provisioner "local-exec" {
     command = "echo ${self.public_ip} > inventory"
   }
-    provisioner "local-exec" {
+  provisioner "local-exec" {
     command = "sleep 100"
   }
   provisioner "local-exec" {
