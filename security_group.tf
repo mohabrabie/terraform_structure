@@ -75,6 +75,7 @@ resource "aws_security_group" "RDS_private_security_group" {
     Name = "RDS"
   }
 }
+
 resource "aws_security_group" "radis_private_security_group" {
   name        = "radis"
   description = "allow app to connect to radis"
