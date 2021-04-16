@@ -1,0 +1,115 @@
+1. Create a user account with the following attribute:
+	-username: islam
+	-Fullname/comment: Islam Askar
+	-Password: islam (Note that this password is weak)
+
+sudo useradd -c "Islam Askar" -md "/home/islam" islam
+sudo passwd islam
+
+2. Create a user account with the following attribute
+ 	-Username: baduser
+	-Full name/comment: Bad User
+	-Password: baduser
+
+sudo useradd -c "Bad User" -md "/home/baduser" baduser
+sudo passwd baduser
+
+3. Create a supplementary (Secondary) group called pgroup with group ID of 30000.
+
+sudo groupadd -g30000 pgroup
+
+4. Create a supplementary group called badgroup.
+
+sudo groupadd badgroup
+Note that it took an id of 30001 (I checked using tail -3 /etc/group)
+
+5. Add islam user to the pgroup group as a supplementary group.
+
+sudo usermod -aG pgroup islam
+checked that it has been added sucessfully using tail -3 /etc/group
+
+6. Modify the password of islam's account to password.
+
+sudo passwd islam 
+
+7. Modify islam's account so the password expires after 30 days (as of solving the problem, the date is 2020-11-16).
+
+sudo chage -E 2020-12-16 islam
+
+8. Lock bad user account so he can't log in.
+
+sudo usermod -L baduser
+when I tried 'su - baduser' and typed the password, it gave me authorization failure.
+
+9. Delete bad user account.
+
+sudo userdel baduser
+I checked it was deleted by typing 'tail -3 /etc/passwd'
+
+10. Delete the supplementary group called badgroup.
+
+sudo groupdel badgroup
+I checked it was deleted by typing 'tail -3 /etc/group'
+
+
+13) mkdir myteam
+    sudo chmod u=r myteam  or sudo chmod u=r,g=---,o=--- myteam
+
+14) su - islam
+    exit
+
+15) cd myteam
+    bash: cd: myteam: Permission denied (because I changed to read only in question 13)
+
+16) 1) chmod u=rw,g=wx,o=x oldpasswd
+       chmod 631 oldpasswd
+    2) umask 146 (note that a file will not have excution rights, to that we must type chmod a+x file_name)
+
+    3) a file can have a max of 6 (read, write)
+       a directory can have max 7 (read, write, excute)
+
+    4) umask 777
+
+17) 1) (coping directory) source->r-x , directory->-wx
+    2) (coping file) source->r-- , directory->-wx
+    3) (delete a file) --- (deleteing a file requries no permissions at all)
+    4) (changing a directory) --x
+    5) (listing a directory) r--
+    6) (view file content) r--
+    7) (modifing a file's content) -w- 
+    
+18) touch 444file
+    chmod 444 444file
+    rm 444file (can't be removed, admin can remove it though)
+    vi 444file (will open in read only, so it can't be editted) 
+
+19) x (excute) for file means it's runnable (like a c, java or python file)
+    x (excute) for directory means it can be opened    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

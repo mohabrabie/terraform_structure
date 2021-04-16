@@ -1,0 +1,60 @@
+ Create database with name “Facebook” and use it.
+	use Facebook
+
+ Create Collection with name “posts” (implicitly) with properties
+	db.createCollection("posts")
+[“post_text”,”images”,”likes”,”comments”,”Datetime”,”owner”,”live”]
+(create one post owned by "ahmed")
+	db.createCollection({"post_text":"post1","images":"img1","likes":"5 liks","comments":"this is 		comment","DateTime":"22/2/1995","owner":"ahmed","live":true})
+
+ Create Capped Collection with name users with Size5 MB , 10 users Maximum
+and must has username field “String” and email end with @gmail.com (validation bouns)
+	db.createCollection( "users" , { 
+   capped : true,
+   size : 5000000,
+   max : 10,
+   validator: { $jsonSchema: { 
+      bsonType: "object", 
+      required: [ "username", "email" ], 
+      properties: { 
+         username: { 
+            bsonType: "string", 
+         }, 
+		 email: { 
+            bsonType: "string", 
+            pattern: "^.+\@gmail\.com$", 
+        }
+      }
+   }
+}})
+ insert 20 post
+	for(i=0;i<20;i=i+1)
+	{
+		db.posts.insert({post_text:"post"+i,images:"img"+i})
+	}
+	for (i = 0; i < 20; i=i+1){ 
+		 db.posts.insert(
+		  {post_text: "hello there "+i, likes: i+1}
+		 )
+	}
+ insert 10 users
+	for(i=0;i<10;i++)
+	{
+		 db.users.insertOne({username: "user"+i, email: "userName"+i+"@gmail.com"})
+	}
+	for (i = 1; i < 10; i=i+1){ 
+		 db.users.insert(
+		  {username: "user "+i, email: "user"+i+"@gmail.com"}
+		 )
+	}
+ display all users
+	db.users.find()
+ display user “ahmed” posts
+	db.posts.find({ owner: "ahmed" })
+ update ahmed ‘s posts to have likes 10000
+	db.posts.update({ owner: "ahmed" }, {$set: {likes: 10000} } , {multi: true})
+ delete ahmed ‘s posts
+	db.posts.deleteMany({ owner: "ahmed" })
+ Create database user with name “ali” who has only access to read only
+facebook database
+	db.createUser({user: "ali", pwd: "ali_dir", roles: [{role: "read", db: "Facebook"}]})

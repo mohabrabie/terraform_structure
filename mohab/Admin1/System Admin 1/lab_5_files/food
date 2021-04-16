@@ -1,0 +1,1200 @@
+.
+./.mozilla
+./.mozilla/extensions
+./.mozilla/plugins
+./.mozilla/firefox
+./.mozilla/firefox/xm70a7ol.default-default
+./.mozilla/firefox/xm70a7ol.default-default/extensions
+./.mozilla/firefox/xm70a7ol.default-default/bookmarkbackups
+./.mozilla/firefox/xm70a7ol.default-default/storage
+./.mozilla/firefox/xm70a7ol.default-default/storage/permanent
+./.mozilla/firefox/xm70a7ol.default-default/storage/permanent/chrome
+./.mozilla/firefox/xm70a7ol.default-default/storage/permanent/chrome/idb
+./.mozilla/firefox/xm70a7ol.default-default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.files
+./.mozilla/firefox/xm70a7ol.default-default/storage/permanent/chrome/idb/1451318868ntouromlalnodry--epcr.files
+./.mozilla/firefox/xm70a7ol.default-default/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.files
+./.mozilla/firefox/xm70a7ol.default-default/storage/permanent/chrome/idb/3561288849sdhlie.files
+./.mozilla/firefox/xm70a7ol.default-default/storage/default
+./.mozilla/firefox/xm70a7ol.default-default/storage/default/https+++64cf29f846e419a4c85aff4888c56201.safeframe.googlesyndication.com
+./.mozilla/firefox/xm70a7ol.default-default/storage/default/https+++64cf29f846e419a4c85aff4888c56201.safeframe.googlesyndication.com/idb
+./.mozilla/firefox/xm70a7ol.default-default/storage/default/https+++64cf29f846e419a4c85aff4888c56201.safeframe.googlesyndication.com/idb/12183338011.files
+./.mozilla/firefox/xm70a7ol.default-default/storage/default/https+++www.google.com
+./.mozilla/firefox/xm70a7ol.default-default/storage/default/https+++www.google.com/idb
+./.mozilla/firefox/xm70a7ol.default-default/storage/default/https+++www.google.com/idb/548905059db.files
+./.mozilla/firefox/xm70a7ol.default-default/storage/default/https+++www.geeksforgeeks.org
+./.mozilla/firefox/xm70a7ol.default-default/storage/default/https+++www.geeksforgeeks.org/idb
+./.mozilla/firefox/xm70a7ol.default-default/storage/default/https+++www.geeksforgeeks.org/idb/12183338011.files
+./.mozilla/firefox/xm70a7ol.default-default/storage/temporary
+./.mozilla/firefox/xm70a7ol.default-default/datareporting
+./.mozilla/firefox/xm70a7ol.default-default/datareporting/archived
+./.mozilla/firefox/xm70a7ol.default-default/datareporting/archived/2020-11
+./.mozilla/firefox/xm70a7ol.default-default/sessionstore-backups
+./.mozilla/firefox/xm70a7ol.default-default/saved-telemetry-pings
+./.mozilla/firefox/csga23z6.default
+./.mozilla/systemextensionsdev
+./.config
+./.config/pulse
+./.config/gnome-session
+./.config/gnome-session/saved-session
+./.config/ibus
+./.config/ibus/bus
+./.config/dconf
+./.config/evolution
+./.config/evolution/sources
+./.config/goa-1.0
+./.config/gconf
+./.config/gtk-3.0
+./.config/yelp
+./.config/nautilus
+./.config/gnome-boxes
+./.config/gnome-boxes/sources
+./.config/Microsoft
+./.config/Microsoft/Microsoft Teams
+./.config/Microsoft/Microsoft Teams/logs
+./.config/Microsoft/Microsoft Teams/blob_storage
+./.config/Microsoft/Microsoft Teams/blob_storage/e9452371-0015-45f1-98c8-efa3e1477c13
+./.config/Microsoft/Microsoft Teams/GPUCache
+./.config/Microsoft/Microsoft Teams/Cache
+./.config/Microsoft/Microsoft Teams/Cache/index-dir
+./.config/Microsoft/Microsoft Teams/Local Storage
+./.config/Microsoft/Microsoft Teams/Local Storage/leveldb
+./.config/Microsoft/Microsoft Teams/Application Cache
+./.config/Microsoft/Microsoft Teams/Application Cache/Cache
+./.config/Microsoft/Microsoft Teams/databases
+./.config/Microsoft/Microsoft Teams/IndexedDB
+./.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb
+./.config/Microsoft/Microsoft Teams/dictionaries
+./.config/Microsoft/Microsoft Teams/skylib
+./.config/Microsoft/Microsoft Teams/media-stack
+./.config/autostart
+./.config/teams
+./.config/teams/SkypeRT
+./.config/teams/CS_skylib
+./.config/enchant
+./.config/gedit
+./.config/google-chrome
+./.config/google-chrome/NativeMessagingHosts
+./.config/google-chrome/Crash Reports
+./.config/google-chrome/ShaderCache
+./.config/google-chrome/ShaderCache/GPUCache
+./.config/google-chrome/Default
+./.config/google-chrome/Default/Site Characteristics Database
+./.config/google-chrome/Default/Sync Data
+./.config/google-chrome/Default/Sync Data/LevelDB
+./.config/google-chrome/Default/Local Storage
+./.config/google-chrome/Default/Local Storage/leveldb
+./.config/google-chrome/Default/Storage
+./.config/google-chrome/Default/Storage/ext
+./.config/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl
+./.config/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def
+./.config/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Local Storage
+./.config/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Local Storage/leveldb
+./.config/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/GPUCache
+./.config/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Platform Notifications
+./.config/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Session Storage
+./.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda
+./.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def
+./.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local Storage
+./.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local Storage/leveldb
+./.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Platform Notifications
+./.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/GPUCache
+./.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Session Storage
+./.config/google-chrome/Default/GPUCache
+./.config/google-chrome/Default/Platform Notifications
+./.config/google-chrome/Default/Extension State
+./.config/google-chrome/Default/Sessions
+./.config/google-chrome/Default/Session Storage
+./.config/google-chrome/Default/blob_storage
+./.config/google-chrome/Default/blob_storage/9a37eae7-ddfc-443c-a82e-75da12763c91
+./.config/google-chrome/Default/data_reduction_proxy_leveldb
+./.config/google-chrome/Default/Extensions
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/ar
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/bg
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/ca
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/cs
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/da
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/de
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/el
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/en_GB
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/en_US
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/es
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/es_419
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/et
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/fi
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/fil
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/fr
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/he
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/hi
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/hu
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/id
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/it
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/ja
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/ko
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/lt
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/lv
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/ms
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/nl
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/no
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/pl
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/pt_BR
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/pt_PT
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/ro
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/ru
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/sk
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/sl
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/sr
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/sv
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/th
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/tr
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/uk
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/vi
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/zh_CN
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_locales/zh_TW
+./.config/google-chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/_metadata
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/ar
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/bg
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/ca
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/cs
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/da
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/de
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/el
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/en_GB
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/en_US
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/es
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/es_419
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/et
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/fi
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/fil
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/fr
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/he
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/hi
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/hu
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/id
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/it
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/ja
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/ko
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/lt
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/lv
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/ms
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/nl
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/no
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/pl
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/pt_BR
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/pt_PT
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/ro
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/ru
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/sk
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/sl
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/sr
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/sv
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/th
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/tr
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/uk
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/vi
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/zh_CN
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_locales/zh_TW
+./.config/google-chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/_metadata
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/ar
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/bg
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/ca
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/cs
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/da
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/de
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/el
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/en_GB
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/en_US
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/es
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/es_419
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/et
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/eu
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/fi
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/fil
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/fr
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/he
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/hi
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/hr
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/hu
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/id
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/it
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/ja
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/ko
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/lt
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/lv
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/ms
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/nl
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/no
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/pl
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/pt_BR
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/pt_PT
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/ro
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/ru
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/sk
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/sl
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/sr
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/sv
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/th
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/tr
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/uk
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/vi
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/zh_CN
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_locales/zh_TW
+./.config/google-chrome/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/14.5_0/_metadata
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/ar
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/bg
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/ca
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/cs
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/da
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/de
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/el
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/en_GB
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/en_US
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/es
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/es_419
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/et
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/fi
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/fil
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/fr
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/he
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/hi
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/hu
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/id
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/it
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/ja
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/ko
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/lt
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/lv
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/ms
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/nl
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/no
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/pl
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/pt_BR
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/pt_PT
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/ro
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/ru
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/sk
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/sl
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/sr
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/sv
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/th
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/tr
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/uk
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/vi
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/zh_CN
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_locales/zh_TW
+./.config/google-chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/_metadata
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/am
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/ar
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/bg
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/bn
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/ca
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/cs
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/da
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/de
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/el
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/en
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/es
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/et
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/fa
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/fi
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/fil
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/fr
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/gu
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/hi
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/hr
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/hu
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/id
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/it
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/iw
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/ja
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/kn
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/ko
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/lt
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/lv
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/ml
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/mr
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/ms
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/nb
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/nl
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/pl
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/pt
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/ro
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/ru
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/sk
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/sl
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/sr
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/sv
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/sw
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/ta
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/te
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/th
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/tr
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/uk
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/vi
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/zh
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_locales/zh_TW
+./.config/google-chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/8620.824.0.0_0/_metadata
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_metadata
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/hu
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/da
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/de
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/es
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/ru
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/pl
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/lt
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/lv
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/se
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/fr
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/ca
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/fi
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/ko
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/nl
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/pt_PT
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/uk
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/pt_BR
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/sr
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/ja
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/ro
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/no
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/it
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/zh_CN
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/th
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/bg
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/hi
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/zh_TW
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/sk
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/id
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/sl
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/el
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/ar
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/cs
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/hr
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/fil
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/en
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/tr
+./.config/google-chrome/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/8.3_0/_locales/vi
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/bg
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/ca
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/cs
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/da
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/de
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/el
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/en
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/en_GB
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/es
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/es_419
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/et
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/fi
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/fil
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/fr
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/hi
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/hr
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/hu
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/id
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/it
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/ja
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/ko
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/lt
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/lv
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/nb
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/nl
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/pl
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/pt_BR
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/pt_PT
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/ro
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/ru
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/sk
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/sl
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/sr
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/sv
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/th
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/tr
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/uk
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/vi
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/zh_CN
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_locales/zh_TW
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/css
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/html
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/images
+./.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/_metadata
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/am
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/sv
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ko
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ne
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/iw
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/hr
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/km
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/gl
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ro
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/fil
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ca
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/es_419
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/id
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ta
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/hi
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/th
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/bg
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/tr
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/fr_CA
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ru
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/es
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/kk
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/fr
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ur
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/cy
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/it
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/zh_HK
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/nl
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/lo
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/el
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/sl
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/en_US
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/da
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/cs
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/pa
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/bn
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/be
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/gu
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/sr
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ml
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/my
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/sk
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/zu
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/mr
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/hu
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/fi
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/si
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/kn
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ar
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/lv
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/sw
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/te
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/lt
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/pt_PT
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/en_GB
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/zh_TW
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/et
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/no
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/pt_BR
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/af
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/vi
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/mn
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/uk
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/eu
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ja
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/hy
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/is
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ka
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/fa
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/de
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/zh_CN
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/ms
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/az
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/en
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_locales/pl
+./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.21.0_0/_metadata
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/ar
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/bg
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/ca
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/cs
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/da
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/de
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/el
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/en
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/es
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/fi
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/fil
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/fr
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/he
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/hi
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/hr
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/hu
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/id
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/it
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/ja
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/ko
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/lt
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/lv
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/nl
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/no
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/pl
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/pt_BR
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/pt_PT
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/ro
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/ru
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/sk
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/sl
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/sr
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/sv
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/th
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/tr
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/uk
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/vi
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/zh_CN
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_locales/zh_TW
+./.config/google-chrome/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.8_0/_metadata
+./.config/google-chrome/Default/Extension Rules
+./.config/google-chrome/Default/GCM Store
+./.config/google-chrome/Default/GCM Store/Encryption
+./.config/google-chrome/Default/Feature Engagement Tracker
+./.config/google-chrome/Default/Feature Engagement Tracker/EventDB
+./.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB
+./.config/google-chrome/Default/shared_proto_db
+./.config/google-chrome/Default/shared_proto_db/metadata
+./.config/google-chrome/Default/Sync Extension Settings
+./.config/google-chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm
+./.config/google-chrome/Default/Local Extension Settings
+./.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+./.config/google-chrome/Default/Accounts
+./.config/google-chrome/Default/Accounts/Avatar Images
+./.config/google-chrome/Default/IndexedDB
+./.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_www.howtogeek.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_9a34e59f2e52ea3d75700377629db6b4.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_5a14838199ac5954c33f8a76a0df01d7.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_c34d3ec32fd75a356f686d7f35c2155f.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob
+./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/1
+./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/1/00
+./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/3
+./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/3/00
+./.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.blob
+./.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.blob/2
+./.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.blob/2/00
+./.config/google-chrome/Default/IndexedDB/https_7522959cf9aa05666e47ff8f0530810f.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_29c455c444d41e027ca98f0cc59dbe12.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_47a81e9e42edaf568bc89c26d74cae8d.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_s.0cf.io_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_99c3b48fe8a35e545b92999cc87c1074.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_devconnected.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_0bb079a8e2ed763a096159ceb8d8b7c5.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_www.booleanworld.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_b1af813a2bfa912a63c16bb19a5d0bee.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_a0e805eba588baf8d643a3f775c31e73.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_www.techonthenet.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_4950ede6e7ee076e0dfe47df05aba9d0.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_computingforgeeks.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/IndexedDB/https_aa83ec7b50f05220c93c5da87dc2a6f3.safeframe.googlesyndication.com_0.indexeddb.leveldb
+./.config/google-chrome/Default/Service Worker
+./.config/google-chrome/Default/Service Worker/ScriptCache
+./.config/google-chrome/Default/Service Worker/ScriptCache/index-dir
+./.config/google-chrome/Default/Service Worker/Database
+./.config/google-chrome/Default/Service Worker/CacheStorage
+./.config/google-chrome/Default/Service Worker/CacheStorage/76ef9e5953a1ba4578548bb32235240a9f0e0ca2
+./.config/google-chrome/Default/Service Worker/CacheStorage/76ef9e5953a1ba4578548bb32235240a9f0e0ca2/ecb63ff9-f64d-4a8e-98ac-4482154c2d9e
+./.config/google-chrome/Default/Service Worker/CacheStorage/76ef9e5953a1ba4578548bb32235240a9f0e0ca2/ecb63ff9-f64d-4a8e-98ac-4482154c2d9e/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/0501fdf4-e840-44fe-b5c9-6b21d1331d5c
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/0501fdf4-e840-44fe-b5c9-6b21d1331d5c/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/6cb617b1-7803-4858-a7f5-1ceb063f93b8
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/6cb617b1-7803-4858-a7f5-1ceb063f93b8/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/2d89b590-00d1-4795-8368-972cd807cc37
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/2d89b590-00d1-4795-8368-972cd807cc37/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/d82a7abb-6f93-44d4-a325-fc54f80ac5c3
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/d82a7abb-6f93-44d4-a325-fc54f80ac5c3/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/88f61fc7-5a22-45c5-ac87-85ce878a1deb
+./.config/google-chrome/Default/Service Worker/CacheStorage/18ae9b1c3e70c6b6064b6bc10544cb86296e48ae/88f61fc7-5a22-45c5-ac87-85ce878a1deb/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/73bd2a3f-b178-49f4-a813-c25c6651ab42
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/73bd2a3f-b178-49f4-a813-c25c6651ab42/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/beb939b0-4dc3-4b37-b9ed-b6c8ae5dd990
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/beb939b0-4dc3-4b37-b9ed-b6c8ae5dd990/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/3ac097ac-92b6-484e-bad3-e485938c6d44
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/3ac097ac-92b6-484e-bad3-e485938c6d44/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/87307b78-2b33-4eb0-8a83-7fd36f2adef4
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/87307b78-2b33-4eb0-8a83-7fd36f2adef4/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/5da72a39-776a-4df9-8ba5-9aa8e90130eb
+./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/5da72a39-776a-4df9-8ba5-9aa8e90130eb/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0
+./.config/google-chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/8dd2c518-dfbf-4513-b962-38904a0ae0c3
+./.config/google-chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/8dd2c518-dfbf-4513-b962-38904a0ae0c3/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/0253bced-da6f-4a51-bd64-8942d33d4cea
+./.config/google-chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/0253bced-da6f-4a51-bd64-8942d33d4cea/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/6e2f2dfb-2916-4a34-914f-44dd0a172397
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/6e2f2dfb-2916-4a34-914f-44dd0a172397/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/1135e329-2026-4510-9578-399621ff8866
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/1135e329-2026-4510-9578-399621ff8866/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/158c655a-eb1c-415c-9f1d-1cd440186e5f
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/158c655a-eb1c-415c-9f1d-1cd440186e5f/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/46d1f176-459a-4588-b99f-24708e72ac43
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/46d1f176-459a-4588-b99f-24708e72ac43/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/c9da4c6b-c8fd-46a0-91d9-9e77925016e9
+./.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/c9da4c6b-c8fd-46a0-91d9-9e77925016e9/index-dir
+./.config/google-chrome/Default/Service Worker/CacheStorage/1ba000ec2cec543c4e27228d4cd4aef8ae1e8408
+./.config/google-chrome/Default/Service Worker/CacheStorage/1ba000ec2cec543c4e27228d4cd4aef8ae1e8408/da94b3eb-a5a1-4ab4-9bb2-acf2c9786aca
+./.config/google-chrome/Default/Service Worker/CacheStorage/1ba000ec2cec543c4e27228d4cd4aef8ae1e8408/da94b3eb-a5a1-4ab4-9bb2-acf2c9786aca/index-dir
+./.config/google-chrome/Default/databases
+./.config/google-chrome/Default/File System
+./.config/google-chrome/Default/File System/Origins
+./.config/google-chrome/Default/File System/000
+./.config/google-chrome/Default/File System/000/t
+./.config/google-chrome/Default/File System/000/t/Paths
+./.config/google-chrome/Default/File System/001
+./.config/google-chrome/Default/File System/001/t
+./.config/google-chrome/Default/File System/001/t/Paths
+./.config/google-chrome/Default/File System/002
+./.config/google-chrome/Default/File System/002/t
+./.config/google-chrome/Default/File System/002/t/Paths
+./.config/google-chrome/Default/File System/003
+./.config/google-chrome/Default/File System/003/t
+./.config/google-chrome/Default/File System/003/t/Paths
+./.config/google-chrome/Default/File System/004
+./.config/google-chrome/Default/File System/004/p
+./.config/google-chrome/Default/File System/004/p/Paths
+./.config/google-chrome/Default/File System/004/p/00
+./.config/google-chrome/Default/File System/004/p/01
+./.config/google-chrome/Default/File System/004/p/02
+./.config/google-chrome/Default/File System/004/p/03
+./.config/google-chrome/Default/BudgetDatabase
+./.config/google-chrome/Default/AutofillStrikeDatabase
+./.config/google-chrome/Default/Application Cache
+./.config/google-chrome/Default/Application Cache/Cache
+./.config/google-chrome/Default/Search Logos
+./.config/google-chrome/Default/VideoDecodeStats
+./.config/google-chrome/Dictionaries
+./.config/google-chrome/Safe Browsing
+./.config/google-chrome/GrShaderCache
+./.config/google-chrome/GrShaderCache/GPUCache
+./.config/google-chrome/PepperFlash
+./.config/google-chrome/PepperFlash/32.0.0.453
+./.config/google-chrome/PepperFlash/32.0.0.453/_metadata
+./.config/google-chrome/Subresource Filter
+./.config/google-chrome/Subresource Filter/Unindexed Rules
+./.config/google-chrome/Subresource Filter/Unindexed Rules/9.18.0
+./.config/google-chrome/Subresource Filter/Unindexed Rules/9.18.0/_metadata
+./.config/google-chrome/Subresource Filter/Indexed Rules
+./.config/google-chrome/Subresource Filter/Indexed Rules/27
+./.config/google-chrome/Subresource Filter/Indexed Rules/27/9.18.0
+./.config/google-chrome/pnacl
+./.config/google-chrome/pnacl/0.57.44.2492
+./.config/google-chrome/pnacl/0.57.44.2492/_platform_specific
+./.config/google-chrome/pnacl/0.57.44.2492/_platform_specific/x86_64
+./.config/google-chrome/pnacl/0.57.44.2492/_metadata
+./.config/google-chrome/CertificateRevocation
+./.config/google-chrome/CertificateRevocation/6256
+./.config/google-chrome/CertificateRevocation/6256/_metadata
+./.config/google-chrome/WidevineCdm
+./.config/google-chrome/FileTypePolicies
+./.config/google-chrome/FileTypePolicies/43
+./.config/google-chrome/FileTypePolicies/43/_metadata
+./.config/google-chrome/SSLErrorAssistant
+./.config/google-chrome/SSLErrorAssistant/7
+./.config/google-chrome/SSLErrorAssistant/7/_metadata
+./.config/google-chrome/MEIPreload
+./.config/google-chrome/Crowd Deny
+./.config/google-chrome/Crowd Deny/2020.11.16.1201
+./.config/google-chrome/Crowd Deny/2020.11.16.1201/_metadata
+./.config/google-chrome/SafetyTips
+./.config/google-chrome/SafetyTips/2505
+./.config/google-chrome/SafetyTips/2505/_metadata
+./.config/google-chrome/ZxcvbnData
+./.config/google-chrome/ZxcvbnData/1
+./.config/google-chrome/ZxcvbnData/1/_metadata
+./.config/google-chrome/Floc
+./.config/google-chrome/TLSDeprecationConfig
+./.config/google-chrome/TLSDeprecationConfig/3
+./.config/google-chrome/TLSDeprecationConfig/3/_metadata
+./.config/google-chrome/OriginTrials
+./.config/google-chrome/OriginTrials/1.0.0.5
+./.config/google-chrome/OriginTrials/1.0.0.5/_metadata
+./.config/google-chrome/BrowserMetrics
+./.config/google-chrome/OnDeviceHeadSuggestModel
+./.config/google-chrome/OnDeviceHeadSuggestModel/20201109.342423073
+./.config/google-chrome/OnDeviceHeadSuggestModel/20201109.342423073/_metadata
+./.config/Unknown Organization
+./.config/procps
+./.config/Code
+./.config/Code/Dictionaries
+./.config/Code/Crash Reports
+./.config/Code/CachedData
+./.config/Code/CachedData/e5a624b788d92b8d34d1392e4c4d9789406efe8f
+./.config/Code/Backups
+./.config/Code/logs
+./.config/Code/logs/20201123T202432
+./.config/Code/logs/20201123T202432/output_1_20201123T202434
+./.config/Code/logs/20201123T202432/exthost1
+./.config/Code/logs/20201123T202432/exthost1/output_logging_20201123T202435
+./.config/Code/logs/20201123T202432/exthost1/output_logging_20201123T202436
+./.config/Code/User
+./.config/Code/User/globalStorage
+./.config/Code/User/workspaceStorage
+./.config/Code/User/workspaceStorage/1606155873835
+./.config/Code/blob_storage
+./.config/Code/blob_storage/3f2aa089-b882-41b4-91ec-a73ca7b4f77a
+./.config/Code/Local Storage
+./.config/Code/Local Storage/leveldb
+./.config/Code/Code Cache
+./.config/Code/Code Cache/js
+./.config/Code/Code Cache/js/index-dir
+./.config/Code/Code Cache/wasm
+./.config/Code/Code Cache/wasm/index-dir
+./.config/Code/GPUCache
+./.config/Code/Cache
+./.config/Code/Cache/index-dir
+./.config/Code/exthost Crash Reports
+./.config/Code/CachedExtensions
+./.config/Code/Session Storage
+./.local
+./.local/share
+./.local/share/keyrings
+./.local/share/gnome-shell
+./.local/share/evolution
+./.local/share/evolution/addressbook
+./.local/share/evolution/addressbook/trash
+./.local/share/evolution/addressbook/system
+./.local/share/evolution/addressbook/system/photos
+./.local/share/evolution/calendar
+./.local/share/evolution/calendar/trash
+./.local/share/evolution/calendar/system
+./.local/share/evolution/mail
+./.local/share/evolution/mail/trash
+./.local/share/evolution/memos
+./.local/share/evolution/memos/trash
+./.local/share/evolution/tasks
+./.local/share/evolution/tasks/trash
+./.local/share/applications
+./.local/share/sounds
+./.local/share/icc
+./.local/share/gnome-settings-daemon
+./.local/share/flatpak
+./.local/share/flatpak/db
+./.local/share/flatpak/repo
+./.local/share/flatpak/repo/tmp
+./.local/share/flatpak/repo/tmp/cache
+./.local/share/flatpak/repo/extensions
+./.local/share/flatpak/repo/state
+./.local/share/flatpak/repo/refs
+./.local/share/flatpak/repo/refs/heads
+./.local/share/flatpak/repo/refs/mirrors
+./.local/share/flatpak/repo/refs/remotes
+./.local/share/flatpak/repo/objects
+./.local/share/gvfs-metadata
+./.local/share/tracker
+./.local/share/tracker/data
+./.local/share/app-info
+./.local/share/app-info/xmls
+./.local/share/webkitgtk
+./.local/share/webkitgtk/localstorage
+./.local/share/webkitgtk/deviceidhashsalts
+./.local/share/webkitgtk/deviceidhashsalts/1
+./.local/share/webkitgtk/databases
+./.local/share/webkitgtk/databases/indexeddb
+./.local/share/nautilus
+./.local/share/nautilus/scripts
+./.local/share/Trash
+./.local/share/Trash/info
+./.local/share/Trash/files
+./.local/share/Trash/expunged
+./.cache
+./.cache/mesa_shader_cache
+./.cache/mesa_shader_cache/b5
+./.cache/mesa_shader_cache/45
+./.cache/mesa_shader_cache/58
+./.cache/mesa_shader_cache/f7
+./.cache/mesa_shader_cache/c3
+./.cache/mesa_shader_cache/3a
+./.cache/mesa_shader_cache/55
+./.cache/mesa_shader_cache/a4
+./.cache/mesa_shader_cache/f9
+./.cache/mesa_shader_cache/24
+./.cache/mesa_shader_cache/6c
+./.cache/mesa_shader_cache/2f
+./.cache/mesa_shader_cache/2d
+./.cache/mesa_shader_cache/c8
+./.cache/mesa_shader_cache/0b
+./.cache/mesa_shader_cache/4b
+./.cache/mesa_shader_cache/3e
+./.cache/mesa_shader_cache/92
+./.cache/mesa_shader_cache/65
+./.cache/mesa_shader_cache/ef
+./.cache/mesa_shader_cache/57
+./.cache/mesa_shader_cache/44
+./.cache/mesa_shader_cache/76
+./.cache/mesa_shader_cache/20
+./.cache/mesa_shader_cache/32
+./.cache/mesa_shader_cache/21
+./.cache/mesa_shader_cache/97
+./.cache/mesa_shader_cache/f0
+./.cache/mesa_shader_cache/e1
+./.cache/mesa_shader_cache/1e
+./.cache/mesa_shader_cache/b3
+./.cache/mesa_shader_cache/f5
+./.cache/mesa_shader_cache/8f
+./.cache/mesa_shader_cache/d5
+./.cache/mesa_shader_cache/eb
+./.cache/mesa_shader_cache/80
+./.cache/mesa_shader_cache/7d
+./.cache/mesa_shader_cache/64
+./.cache/mesa_shader_cache/73
+./.cache/mesa_shader_cache/39
+./.cache/mesa_shader_cache/5a
+./.cache/mesa_shader_cache/38
+./.cache/mesa_shader_cache/01
+./.cache/mesa_shader_cache/b8
+./.cache/mesa_shader_cache/8c
+./.cache/mesa_shader_cache/67
+./.cache/mesa_shader_cache/e0
+./.cache/mesa_shader_cache/e7
+./.cache/mesa_shader_cache/fd
+./.cache/mesa_shader_cache/d7
+./.cache/mesa_shader_cache/b9
+./.cache/mesa_shader_cache/6a
+./.cache/mesa_shader_cache/e5
+./.cache/mesa_shader_cache/ca
+./.cache/mesa_shader_cache/15
+./.cache/mesa_shader_cache/f6
+./.cache/mesa_shader_cache/6d
+./.cache/mesa_shader_cache/da
+./.cache/mesa_shader_cache/91
+./.cache/mesa_shader_cache/2a
+./.cache/mesa_shader_cache/7b
+./.cache/mesa_shader_cache/84
+./.cache/mesa_shader_cache/49
+./.cache/mesa_shader_cache/36
+./.cache/mesa_shader_cache/fa
+./.cache/mesa_shader_cache/2c
+./.cache/mesa_shader_cache/b4
+./.cache/mesa_shader_cache/72
+./.cache/mesa_shader_cache/86
+./.cache/mesa_shader_cache/d1
+./.cache/mesa_shader_cache/60
+./.cache/mesa_shader_cache/40
+./.cache/mesa_shader_cache/ae
+./.cache/mesa_shader_cache/1c
+./.cache/mesa_shader_cache/f3
+./.cache/mesa_shader_cache/c2
+./.cache/mesa_shader_cache/94
+./.cache/mesa_shader_cache/07
+./.cache/mesa_shader_cache/35
+./.cache/mesa_shader_cache/1b
+./.cache/mesa_shader_cache/ac
+./.cache/mesa_shader_cache/04
+./.cache/mesa_shader_cache/5c
+./.cache/mesa_shader_cache/a2
+./.cache/mesa_shader_cache/a0
+./.cache/mesa_shader_cache/75
+./.cache/mesa_shader_cache/19
+./.cache/mesa_shader_cache/51
+./.cache/mesa_shader_cache/34
+./.cache/mesa_shader_cache/8e
+./.cache/mesa_shader_cache/c6
+./.cache/mesa_shader_cache/14
+./.cache/mesa_shader_cache/bc
+./.cache/mesa_shader_cache/a9
+./.cache/mesa_shader_cache/77
+./.cache/mesa_shader_cache/6b
+./.cache/mesa_shader_cache/59
+./.cache/mesa_shader_cache/9c
+./.cache/mesa_shader_cache/99
+./.cache/mesa_shader_cache/74
+./.cache/mesa_shader_cache/b1
+./.cache/mesa_shader_cache/b6
+./.cache/mesa_shader_cache/9a
+./.cache/mesa_shader_cache/83
+./.cache/mesa_shader_cache/61
+./.cache/mesa_shader_cache/d6
+./.cache/mesa_shader_cache/bf
+./.cache/mesa_shader_cache/16
+./.cache/mesa_shader_cache/1a
+./.cache/mesa_shader_cache/3d
+./.cache/mesa_shader_cache/d0
+./.cache/mesa_shader_cache/a3
+./.cache/mesa_shader_cache/e4
+./.cache/mesa_shader_cache/ee
+./.cache/mesa_shader_cache/d9
+./.cache/mesa_shader_cache/4c
+./.cache/mesa_shader_cache/f1
+./.cache/mesa_shader_cache/0a
+./.cache/mesa_shader_cache/71
+./.cache/mesa_shader_cache/43
+./.cache/mesa_shader_cache/85
+./.cache/mesa_shader_cache/5e
+./.cache/mesa_shader_cache/0f
+./.cache/mesa_shader_cache/8d
+./.cache/mesa_shader_cache/d8
+./.cache/mesa_shader_cache/e3
+./.cache/mesa_shader_cache/37
+./.cache/mesa_shader_cache/63
+./.cache/mesa_shader_cache/3f
+./.cache/mesa_shader_cache/b7
+./.cache/mesa_shader_cache/12
+./.cache/mesa_shader_cache/82
+./.cache/mesa_shader_cache/fc
+./.cache/mesa_shader_cache/79
+./.cache/mesa_shader_cache/af
+./.cache/mesa_shader_cache/96
+./.cache/mesa_shader_cache/cf
+./.cache/mesa_shader_cache/9b
+./.cache/mesa_shader_cache/d3
+./.cache/mesa_shader_cache/b0
+./.cache/mesa_shader_cache/c7
+./.cache/mesa_shader_cache/8a
+./.cache/mesa_shader_cache/4f
+./.cache/mesa_shader_cache/48
+./.cache/mesa_shader_cache/3c
+./.cache/mesa_shader_cache/9f
+./.cache/mesa_shader_cache/cc
+./.cache/mesa_shader_cache/dd
+./.cache/mesa_shader_cache/4d
+./.cache/mesa_shader_cache/17
+./.cache/mesa_shader_cache/be
+./.cache/mesa_shader_cache/88
+./.cache/mesa_shader_cache/27
+./.cache/mesa_shader_cache/bb
+./.cache/mesa_shader_cache/fb
+./.cache/mesa_shader_cache/68
+./.cache/mesa_shader_cache/69
+./.cache/mesa_shader_cache/33
+./.cache/mesa_shader_cache/47
+./.cache/mesa_shader_cache/ff
+./.cache/mesa_shader_cache/0d
+./.cache/mesa_shader_cache/6f
+./.cache/mesa_shader_cache/c9
+./.cache/mesa_shader_cache/aa
+./.cache/mesa_shader_cache/26
+./.cache/mesa_shader_cache/50
+./.cache/mesa_shader_cache/a6
+./.cache/mesa_shader_cache/f8
+./.cache/mesa_shader_cache/bd
+./.cache/mesa_shader_cache/95
+./.cache/mesa_shader_cache/d2
+./.cache/mesa_shader_cache/e6
+./.cache/mesa_shader_cache/03
+./.cache/mesa_shader_cache/a1
+./.cache/mesa_shader_cache/22
+./.cache/mesa_shader_cache/e9
+./.cache/mesa_shader_cache/e8
+./.cache/mesa_shader_cache/09
+./.cache/mesa_shader_cache/31
+./.cache/mesa_shader_cache/dc
+./.cache/mesa_shader_cache/f2
+./.cache/mesa_shader_cache/9e
+./.cache/mesa_shader_cache/db
+./.cache/mesa_shader_cache/93
+./.cache/mesa_shader_cache/66
+./.cache/mesa_shader_cache/7a
+./.cache/mesa_shader_cache/c5
+./.cache/mesa_shader_cache/18
+./.cache/mesa_shader_cache/2e
+./.cache/mesa_shader_cache/00
+./.cache/mesa_shader_cache/c1
+./.cache/mesa_shader_cache/70
+./.cache/mesa_shader_cache/ed
+./.cache/mesa_shader_cache/13
+./.cache/mesa_shader_cache/ab
+./.cache/mesa_shader_cache/c0
+./.cache/mesa_shader_cache/56
+./.cache/mesa_shader_cache/78
+./.cache/mesa_shader_cache/87
+./.cache/mesa_shader_cache/98
+./.cache/mesa_shader_cache/a7
+./.cache/mesa_shader_cache/cd
+./.cache/mesa_shader_cache/06
+./.cache/mesa_shader_cache/02
+./.cache/mesa_shader_cache/29
+./.cache/mesa_shader_cache/6e
+./.cache/mesa_shader_cache/25
+./.cache/mesa_shader_cache/f4
+./.cache/mesa_shader_cache/10
+./.cache/mesa_shader_cache/1d
+./.cache/mesa_shader_cache/4e
+./.cache/mesa_shader_cache/cb
+./.cache/mesa_shader_cache/e2
+./.cache/mesa_shader_cache/df
+./.cache/mesa_shader_cache/28
+./.cache/mesa_shader_cache/46
+./.cache/mesa_shader_cache/2b
+./.cache/mesa_shader_cache/62
+./.cache/mesa_shader_cache/42
+./.cache/mesa_shader_cache/53
+./.cache/mesa_shader_cache/54
+./.cache/mesa_shader_cache/b2
+./.cache/mesa_shader_cache/30
+./.cache/mesa_shader_cache/11
+./.cache/mesa_shader_cache/0e
+./.cache/mesa_shader_cache/3b
+./.cache/mesa_shader_cache/5f
+./.cache/mesa_shader_cache/a5
+./.cache/mesa_shader_cache/c4
+./.cache/mesa_shader_cache/7c
+./.cache/mesa_shader_cache/7f
+./.cache/mesa_shader_cache/5b
+./.cache/mesa_shader_cache/ba
+./.cache/mesa_shader_cache/fe
+./.cache/mesa_shader_cache/0c
+./.cache/mesa_shader_cache/de
+./.cache/mesa_shader_cache/81
+./.cache/mesa_shader_cache/1f
+./.cache/mesa_shader_cache/05
+./.cache/mesa_shader_cache/90
+./.cache/mesa_shader_cache/08
+./.cache/mesa_shader_cache/8b
+./.cache/mesa_shader_cache/52
+./.cache/libgweather
+./.cache/evolution
+./.cache/evolution/addressbook
+./.cache/evolution/addressbook/trash
+./.cache/evolution/calendar
+./.cache/evolution/calendar/trash
+./.cache/evolution/calendar/bb61ca966f173ef9016a9cfa01c672c2fe1d157c
+./.cache/evolution/calendar/e5aa512cb566b4786b27f6a868c46971bea4edc1
+./.cache/evolution/calendar/f3a11a17663c151d40f0491f96fc183f8dc65000
+./.cache/evolution/mail
+./.cache/evolution/mail/trash
+./.cache/evolution/memos
+./.cache/evolution/memos/trash
+./.cache/evolution/sources
+./.cache/evolution/sources/trash
+./.cache/evolution/sources/324eb9376863856e6caa0032860b05839ad96aea
+./.cache/evolution/sources/5782a24f7b274e9ac5a2f6ef3cace80a6fe5fcb4
+./.cache/evolution/tasks
+./.cache/evolution/tasks/trash
+./.cache/evolution/tasks/5a840cb9d8ed2da67924436d6529077d97232e4f
+./.cache/gnome-shell
+./.cache/tracker
+./.cache/flatpak
+./.cache/flatpak/system-cache
+./.cache/gstreamer-1.0
+./.cache/gnome-software
+./.cache/gnome-software/fwupd
+./.cache/gnome-software/fwupd/remotes.d
+./.cache/gnome-software/fwupd/remotes.d/lvfs
+./.cache/gnome-software/shell-extensions
+./.cache/gnome-software/odrs
+./.cache/gnome-initial-setup
+./.cache/gnome-initial-setup/WebKitCache
+./.cache/gnome-initial-setup/WebKitCache/Version 14
+./.cache/gnome-initial-setup/WebKitCache/Version 14/Blobs
+./.cache/gnome-initial-setup/WebKitCache/Version 14/Records
+./.cache/gnome-initial-setup/WebKitCache/Version 14/Records/13421512D90CA0F1CCB0358A32266198BCB4D6E1
+./.cache/gnome-initial-setup/WebKitCache/Version 14/Records/13421512D90CA0F1CCB0358A32266198BCB4D6E1/Resource
+./.cache/gnome-initial-setup/WebKitCache/Version 14/Records/13421512D90CA0F1CCB0358A32266198BCB4D6E1/SubResources
+./.cache/yelp
+./.cache/yelp/WebKitCache
+./.cache/yelp/WebKitCache/Version 14
+./.cache/yelp/WebKitCache/Version 14/Blobs
+./.cache/mozilla
+./.cache/mozilla/firefox
+./.cache/mozilla/firefox/xm70a7ol.default-default
+./.cache/mozilla/firefox/xm70a7ol.default-default/startupCache
+./.cache/mozilla/firefox/xm70a7ol.default-default/cache2
+./.cache/mozilla/firefox/xm70a7ol.default-default/cache2/entries
+./.cache/mozilla/firefox/xm70a7ol.default-default/cache2/doomed
+./.cache/mozilla/firefox/xm70a7ol.default-default/OfflineCache
+./.cache/mozilla/firefox/xm70a7ol.default-default/thumbnails
+./.cache/mozilla/firefox/xm70a7ol.default-default/safebrowsing
+./.cache/mozilla/firefox/xm70a7ol.default-default/safebrowsing/google4
+./.cache/mozilla/firefox/csga23z6.default
+./.cache/fontconfig
+./.cache/gnome-calculator
+./.cache/google-chrome
+./.cache/google-chrome/Default
+./.cache/google-chrome/Default/Code Cache
+./.cache/google-chrome/Default/Code Cache/js
+./.cache/google-chrome/Default/Code Cache/js/index-dir
+./.cache/google-chrome/Default/Code Cache/wasm
+./.cache/google-chrome/Default/Code Cache/wasm/index-dir
+./.cache/google-chrome/Default/Storage
+./.cache/google-chrome/Default/Storage/ext
+./.cache/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl
+./.cache/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def
+./.cache/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache
+./.cache/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/js
+./.cache/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/js/index-dir
+./.cache/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/wasm
+./.cache/google-chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/wasm/index-dir
+./.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda
+./.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def
+./.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache
+./.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/js
+./.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/js/index-dir
+./.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/wasm
+./.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/wasm/index-dir
+./.cache/google-chrome/Default/Cache
+./.cache/google-chrome/Default/Cache/index-dir
+./.cache/gnome-control-center
+./.cache/gnome-control-center/wacom
+./.cache/thumbnails
+./.cache/thumbnails/large
+./.cache/zoom
+./.cache/zoom/qmlcache
+./.cache/qtshadercache-x86_64-little_endian-lp64
+./.cache/ibus
+./.cache/ibus/bus
+./Desktop
+./Downloads
+./Downloads/LibreOffice_7.0.3.1_Linux_x86-64_rpm
+./Downloads/LibreOffice_7.0.3.1_Linux_x86-64_rpm/RPMS
+./Downloads/LibreOffice_7.0.3.1_Linux_x86-64_rpm/readmes
+./Downloads/LibreOffice_7.0.3_Linux_x86-64_rpm
+./Downloads/LibreOffice_7.0.3_Linux_x86-64_rpm/LibreOffice_7.0.3.1_Linux_x86-64_rpm
+./Downloads/LibreOffice_7.0.3_Linux_x86-64_rpm/LibreOffice_7.0.3.1_Linux_x86-64_rpm/RPMS
+./Downloads/LibreOffice_7.0.3_Linux_x86-64_rpm/LibreOffice_7.0.3.1_Linux_x86-64_rpm/readmes
+./Downloads/LibreOffice_7.0 (1).3_Linux_x86-64_rpm
+./Downloads/LibreOffice_7.0 (1).3_Linux_x86-64_rpm/LibreOffice_7.0.3.1_Linux_x86-64_rpm
+./Downloads/LibreOffice_7.0 (1).3_Linux_x86-64_rpm/LibreOffice_7.0.3.1_Linux_x86-64_rpm/RPMS
+./Downloads/LibreOffice_7.0 (1).3_Linux_x86-64_rpm/LibreOffice_7.0.3.1_Linux_x86-64_rpm/readmes
+./Templates
+./Public
+./Documents
+./Music
+./Pictures
+./Videos
+./.pki
+./.pki/nssdb
+./ITI
+./ITI/System Admin 1
+./ITI/System Admin 1/Lecs
+./ITI/System Admin 1/lab 5 files
+./ITI/MySql
+./.zoom
+./.zoom/logs
+./.zoom/data
+./.zoom/data/n4qsbzubtjc2a4jlmgblmg@xmpp.zoom.us
+./.zoom/data/VirtualBkgnd_Default
+./.zoom/data/VirtualBkgnd_Custom
+./.zoom/data/ConfAvatar
+./.zoom/reports
+./.zoom/.zoom
+./.zoom/.zoom/logs
+./.zoom/screenCapture
+./.zoom/shareItems
+./.zoom/im
+./myteam
+./d
+./test
+./foo
+./.vscode
+./.vscode/extensions

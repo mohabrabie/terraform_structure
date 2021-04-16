@@ -1,0 +1,157 @@
+kubectl get nodes
+kubectl get pods --all-namespaces
+kubectl get namespace
+kubectl get nodes -o=wide
+kubectl get pods
+
+https://labs.play-with-k8s.com/
+////////////// install minikube
+#Check to see if virtualization is supported
+sysctl -a | grep -E --color 'machdep.cpu.features|VMX'
+
+#Install Virtualbox with Brew (info at brew.sh)
+brew cask install virtualbox
+ 
+#Install Minikube with Brew
+brew cask install minikube
+
+#Install Kubectl
+brew install kubernetes-cli
+
+#Install the Docker Client
+brew install docker
+
+#Start Minikube
+minikube start
+
+#Configure the Docker Client
+minikube docker-env
+/////////////////
+Running your first container
+
+kubectl create deployment --image nginxdemos/hello web1
+
+kubectl describe deploy web1
+
+kubectl get pods
+
+kubectl get deployment
+
+kubectl scale deployment --replicas 20 web1
+
+kubectl get pods -w
+
+kubectl expose deployment web1 --port=80 --type=LoadBalancer
+
+kubectl get services
+
+minikube service web1
+
+kubectl get deploy web1 -o=yaml
+
+----
+kubectl delete deployment web1
+//////////////////////
+ apiVersion: v1
+ kind: Pod
+ spec:
+   containers:
+     - name: web1
+       image: nginx
+       ports:
+         - containerPort: 80
+/////////////////////
+kubectl run nginx --image=nginx
+
+kubectl apply -f 
+//////////////////////
+alias k=kubectl
+kubectl api-resources
+
+# Get pods 
+kubectl get pod
+
+# Get deployments
+kubectl get deployment
+
+# Describe pods 
+kubectl describe pod
+
+# Describe deployment 
+kubectl describe deploy
+
+# View logs
+kubectl logs <podname>         
+/////////////////////////
+# Scale 
+kubectl scale deploy <deployment-name> --replicas=20
+
+# Autoscaling is possible with the autoscale command
+kubectl autoscale deployment <deployment-name> --min=2 --max=10
+///////////////////////
+# Get services 
+kubectl get svc
+
+# Expose the deployment to the network
+kubectl expose deployment web1 --port=80 --type=LoadBalancer
+
+# Create a service with a YAML file
+kubectl apply –f <service.yaml>
+///////////////////////
+# Get persistent volumes 
+kubectl get pv
+
+# Get persistent volume claims
+kubectl get pvc
+
+# Describe pv and pvc
+kubectl describe pv <pv-name>
+kubectl describe pvc <pvc-name>
+///////////////////////////
+# Get deployments
+kubectl get deploy
+
+# Set the new image to be deployed
+kubectl set image deployments/<deployment-name> <container=new-image>
+
+# Check rollout history
+kubectl rollout history deploy
+
+# Check rollout status
+kubectl rollout status deploy/<deployment-name>
+
+# Undo rollout / rollback
+kubectl rollout undo deploy/<deployment-name>
+///////////////////////////
+# Get namespaces
+kubectl get namespace
+
+# Get pods in a namespace
+kubectl get pods --namespace=kube-system
+
+# Set your default namespace
+kubectl config set-context --current  --namespace=<new-namespace> 
+
+# Check to see what your default namespace is 
+kubectl config view | grep namespace
+/////////////////////////////
+kubectl exec -it <pod-name> -- /bin/bash
+minikube addons list
+
+minikube addons enable metrics-server
+
+minikube addons list
+
+kubectl top node
+kubectl top pod
+kubectl describe pod <pod-name>
+///////////////////////////////
+# delete all pods
+kubectl delete --all pods --namespace=default
+
+
+# deete all deployments
+ kubectl delete --all deployments --namespace=default
+ 
+ # delete all services
+ kubectl delete --all services --namespace=default

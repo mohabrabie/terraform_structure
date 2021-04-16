@@ -1,0 +1,112 @@
+1- Check the present value of /proc/sys/net/ipv4/icmp_echo_ignore_all
+
+cat /proc/sys/net/ipv4/icmp_echo_ignore_all
+value is 0
+
+2- It should be 0, change it to 1 which will prevent other hosts from successfully pinging your host while not affecting your ability to ping them.
+
+sudo su - root
+echo 1 > /proc/sys/net/ipv4/icmp_echo_ignore_all
+
+3-  Try to ping your colleague, let your colleague try to ping your host.
+
+ping is disabled duo to the above step.
+
+4- Reboot and try the last step. What happened? Why?
+
+Now it pings because the changes made in question 2 are reset when system reboots.
+
+5- Edit /etc/sysctl.conf and put the following line at the bottom: net.ipv4.icmp_echo_ignore_all=1
+
+vi /etc/sysctl.conf   ------------> then we add at the end of the file: net.ipv4.icmp_echo_ignore_all=1
+
+6- Execute sysctl –p command.
+
+sysctl –p
+after executing the above cmd, the pinging will be disabled even if the machine reboots.
+
+7- Check the value of /proc/sys/net/ipv4/icmp_echo_ignore_all.
+
+cat /proc/sys/net/ipv4/icmp_echo_ignore_all
+value is 1  (duo to the edit done in question 5)
+
+----------------------------------------------------------------------------
+8- Use fdisk -l to locate information about the partition sizes.
+
+fdisk -l
+
+9- Use fdisk to add a new logical partition that is 1GB in size.
+
+fdisk /dev/sdc
+n
+l
+enter
++1G
+w
+
+10-  Did the kernel feel the changes? Display the content of /proc/partitions file? What did you notice? How to overcome that?
+
+cat /proc/partitions 
+partprobe
+
+
+11-  Make a new ext2 file system on the new logical partition you just created. Bonus: Try creating the ext2 filesystem with 2k blocks and one inode per every 4k (two blocks) of filesystem.
+
+fdisk /dev/sdc
+n
+l
+enter
++1G
+w
+mkfs -t ext2 /dev/sdc1
+
+12-  Create a directory, name it /data.
+
+mkdir /data
+
+13-  Add a label to the new filesystem, name it data.
+
+e2label /dev/sdc1 /data
+mount LABEL=/dev/sdc1 /data1
+
+14-  Add a new entry to /etc/fstab for the new filesystem using the label you just create.
+
+vi /etc/fstab
+/dev/sdc1/data ext2 default 0 0
+
+15-  Mount the new filesystem.
+
+mount /dev/sdc1 /data	
+
+
+----------------------------------------------------------------------------
+16-  Display your swap size.
+
+swapon -s
+
+or
+
+free -h
+
+17- Create a swap file of size 512MB.
+
+fdisk /dev/sdc
+n
+l
+enter
++1G
+t (changing the file type)
+82
+w
+
+18- Add the swap file to the virtual memory of the system.
+
+mkswap /dev/sdc1
+swapon /dev/sdc1
+swapon -s   <to verify>
+
+19-  Display the swap size
+
+swapon -s
+Note I deleted it with: swapoff /dev/sdc1
+

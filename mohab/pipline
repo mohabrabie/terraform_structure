@@ -1,0 +1,41 @@
+pipeline {
+    agent any
+     parameters {
+        choice(
+            choices: ['development' , 'production'],
+            description: 'choose the place to deploy',
+            name: 'REQUESTED_ACTION')
+    }
+    stages {
+        stage('preparation') {
+            steps {
+                git 'https://github.com/mohabrabie/terraform_structure'
+            }
+            
+        }
+        stage('run on dev enviroment') {
+            when{
+                 expression { params.REQUESTED_ACTION == 'development' }
+            
+            steps {
+                sh 'terraform init'
+                sh 'terraform workspace select dev'
+                sh 'terraform apply --var-file=dev.tfvars -auto-approve'
+            }
+            }
+        }
+        stage('run on prod enviroment') {
+            when{
+                 expression { params.REQUESTED_ACTION == 'production' }
+            
+            steps {
+                sh 'terraform init'
+                sh 'terraform workspace select prod'
+                sh 'terraform apply --var-file=prod.tfvars -auto-approve'
+            }
+            }
+            }
+            
+    }
+}
+

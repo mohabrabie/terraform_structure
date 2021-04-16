@@ -1,0 +1,13 @@
+<h1>Articles</h1>
+<h2>Welcome to my blog! we have <%= Article.public_count %> articles and going strong :d</h2>
+<% if notice.present? %>
+       <p class="notice alert alert-danger"><%= notice %></p>         
+<% end %>
+<p><%= link_to("New Article", new_article_path) %></p>
+<ul>
+<% @articles.each do |article| %>
+    <% if article.public? %>
+        <li><%= link_to(article.title, article) %></li>
+    <% end %>
+<% end %>
+</ul>

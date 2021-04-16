@@ -1,0 +1,6 @@
+---
+# tasks file for myrole
+- name: install nginx
+  apt:
+    name: nginx
+    state: present

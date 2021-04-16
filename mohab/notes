@@ -1,0 +1,41 @@
+1-install terraform
+2-configure terraform with aws provider
+	- aws configure
+
+3-create vpc with terraform
+	resource "aws_vpc" "myvpc" {
+	  cidr_block = "10.0.0.0/16"
+	  tags = {
+	      name = "iti"
+	  }
+	}
+4-run terraform plan
+	terraform init
+	terraform plane
+5-remove state file and run terraform plan again. what is the importance of statefile? 
+	will create a new VPC
+6-create s3 backend and dynamodb for lock
+	terraform {
+	  backend "s3" {
+	    bucket = "backend3500"
+	    key    = "status/terraform.tfstate"
+	    region = "us-east-1"
+	    dynamodb_table = "table1"
+	  }
+	}
+	=> LockID on prymary table
+7-try to run terraform apply from two terminals at the same time
+	Block can't do it	
+8-create s3 manually on aws and import it to the terraform code
+	resource "aws_s3_bucket" "mys3" {
+	  bucket = "terraformpractice"
+	}
+	terraform import aws_s3_bucket.mys3 terraformpractice
+9-remove the created vpc from terraform management without destroying it
+	terraform state rm aws_vpc.myvpc
+10-generate graph for your infrastructure
+	terraform graph | dot -Tsvg > graph.svg
+	
+
+
+/var/run/docker.sock  permission

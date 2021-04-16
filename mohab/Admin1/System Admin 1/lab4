@@ -1,0 +1,167 @@
+1. List the user commands and redirect the output to /tmp/commands.list
+
+ls /bin > /tmp/commands.list
+cat /tmp/commands.list (just to check it worked)
+
+2. Count the number of user commands
+
+ls /bin | wc -l
+count is 2093
+
+3. Get all the users names whose first character in their login is ‘g’.
+
+grep ^g /etc/passwd 
+
+4. Get the logins name and full names (comment) of logins starts with “g”.
+
+grep ^g /etc/passwd | cut -f1,5 -d: | grep ^g
+
+5. Save the output of the last command sorted by their full names in a file.
+
+grep ^g /etc/passwd | cut -f1,5 -d: | grep ^g | sort -k2 -t: | tee sorted_users 
+
+6. Write two commands:
+   	-first: to search for all files on the system that named .bash_profile.
+
+ 	 find / -name .bash_profile 2> /dev/null 
+	 ouput is :
+		/home/ahmed/.bash_profile
+		/etc/skel/.bash_profile
+         It took like 8 seconds to search for the file
+
+        -Second: sorts the output of ls command on / recursively, Saving 
+         their output and error in 2 different files and sending them to the background.
+
+         ls -R / > root_directories 2> sort_error
+	 sort < root_directories > sort_file &
+
+	or simply typing:
+
+	ls -R / 2> ls_R_error | sort | tee ls_R_files
+
+7. Display the number of users who is logged now to the system.
+
+who | wc -l
+
+8. Display lines 7 to line 10 of /etc/passwd file
+
+head /etc/passwd | tail -4 
+
+9. What happens if you execute:
+	-cat filename1 | cat filename2
+ 	 the buffer of the pipeline will be ignored, it is equal two 'cat filename2' but with high memeory usage 
+		
+	-ls | rm
+         will not work, nothing will get deleted because rm is missing operand
+
+	-ls /etc/passwd | wc –l
+	 will give line count (if I list a file, the file name itself will be displayed). So, here, it will display 1.
+
+10. Issue the command sleep 100.
+
+sleep 100   (will run in foreground)
+sleep 100 & (will run in background)
+
+11. Stop the last command.
+
+sleep 100   (will run in foreground) ---> ctrl + z
+sleep 100 & (will run in background) ---> kill -SIGSTOP %1
+
+12. Resume the last command in the background
+
+kill -SIGCONT %1   or  bg %job_id
+
+13. Issue the jobs command and see its output.
+
+jobs
+
+14. Send the sleep command to the foreground and send it again to the background.
+
+fg %1   then press ctrl + z then type kill -SIGCONT %1
+
+15. Kill the sleep command.
+
+kill -SIGTERM %1
+
+16. Display your processes only
+
+ps -u 1000
+
+17. Display all processes except yours
+
+ps -ef | grep -v ^ahmed
+
+18. Use the pgrep command to list your processes only
+
+ps -ef | grep ^ahmed   or    pgrep -l -u ahmed  or   pgrep -l -u 1000
+
+19. Kill your processes only.
+
+top
+then press k then enter the process id of the process you want to kill
+or
+killall
+
+-------------------------------------------------------------------------------------------------
+1) b, d
+2) b
+5) a
+6) c
+7) c
+8) b
+9) a
+
+1) jobs
+2) ctrl + d then jobs (to know its job id) then bg %JID
+3) ctrl + c
+4) ps -u his_user_id (to get process id)  then kill -9 process_id 
+5) ps tree or ps fax
+6) renice -n new_prorirt -p process_id
+7) pkill -15 dd
+8) pkill -15 mycommand
+9) k
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

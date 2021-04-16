@@ -1,0 +1,4 @@
+mohab:x:1000:1000:mohab,,,:/home/mohab:/bin/bash
+ayman:x:1001:1001::/home/ayman:/bin/sh
+mohab:x:1000:1000:mohab,,,:/home/mohab:/bin/bash
+ayman:x:1001:1001::/home/ayman:/bin/sh

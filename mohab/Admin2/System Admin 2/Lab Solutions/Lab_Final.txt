@@ -1,0 +1,155 @@
+nmcli d
+
+1. Display your MAC address by 2 different ways.
+
+  ifconfig   --->  (ifconfig -a | grep -Po 'HWaddr \K.*$')
+  ip addr show eth0
+    my MAC is ---> 00:15:5d:76:35:3d
+
+2. Display the network settings of all active interfaces.
+
+ipconfig 
+
+3. Display the network setting of all interfaces both active and inactive.
+
+ipconfig -a
+
+4. Bring your interface down.
+
+ifdown eth0 ---> (to bring it up again, use "ifup eth0" cmd)
+
+5. Configure your network card to have static IP.
+
+vi  /etc/sysconfig/network-scripts/ifcfg-eth0
+(You only need to change IPADDR, GATEWAY and DNS1)
+# static IP address on CentOS 7 or RHEL 7#
+HWADDR=00:08:A2:0A:BA:B8
+TYPE=Ethernet
+BOOTPROTO=none
+# Server IP #
+IPADDR=192.168.2.203
+# Subnet #
+PREFIX=24
+# Set default gateway IP #
+GATEWAY=192.168.2.254
+# Set dns servers #
+DNS1=192.168.2.254
+DNS2=8.8.8.8
+DNS3=8.8.4.4
+DEFROUTE=yes
+IPV4_FAILURE_FATAL=no
+# Disable ipv6 #
+IPV6INIT=no
+NAME=eth0
+# This is system specific and can be created using 'uuidgen eth0' command #
+UUID=41171a6f-bce1-44de-8a6e-cf5e782f8bd6
+DEVICE=eth0
+ONBOOT=yes
+
+then   -> systemctl restart network
+verify -> ifconfig or ip a s eth0
+
+6. Bring your interface up.
+
+ifup eth0
+
+7. Verify your network setting using ifconfig command
+
+ifconfig
+
+8. Configure your network card to have dynamic IP using network manager command.
+
+vi  /etc/sysconfig/network-scripts/ifcfg-eth0
+BOOTPROTO=DHCP
+ONBOOT=yes
+
+then   -> systemctl restart network
+verify -> ifconfig or ip a s eth0
+
+9. Check using ifconfig then check its configuration file.
+
+ipconfig   or  cat /etc/sysconfig/network-scripts/ifcfg-eth0
+
+10. Reconfigure your network card using system-config-network utility to have static IP.
+
+vi /etc/sysconfig/network
+then change GATEWAY field
+
+11. Configure your network card to have 3 IPs and check that they are all working using ifconfig command.
+
+
+
+12. Change your host name in your global network file.
+
+vi /etc/sysconfig/network
+then change HOSTNAME field
+
+13. Using yum: Attempt to run the command gnuplot. You should find that it is not installed.
+
+
+
+14. Search for the plotting packages.
+
+
+
+15. Find out more information about the gunuplot package.
+
+
+
+16. Install the gnuplot package.
+
+
+
+17. Attempt to remove the gnuplot package, but say no
+
+
+
+18. How many packages would be removed
+
+
+
+19. Attempt to remove the gunplot-common package but say no
+
+
+
+20. How many packages would be removed
+
+
+
+21. Using rpm
+	22. List all installed packages in your system.
+	
+	
+	
+	23. View the files in the initscripts package
+	
+	
+	
+	24. Get general information about bash rpm.
+	
+	
+	
+	25. Have the files from the pam package changed since it was installed.
+	
+	
+	
+	26. Which installed packages have gnome in their names?
+	
+	
+	
+	27. Install any uninstalled package from RH Enterprise Linux cds
+	
+	
+	
+	28. Search for software resemble the Photoshop software other than Gimp and install it.
+	
+	
+	
+	29. Create the file /etc/yum.repos.d/cdrom.repo to enable install from the iso from the iso of Red Hat.
+	
+	
+	
+	30. Try to install any package from the new repository
+	
+	
+	

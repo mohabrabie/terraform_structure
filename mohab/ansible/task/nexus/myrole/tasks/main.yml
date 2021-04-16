@@ -1,0 +1,61 @@
+---
+# tasks file for myrole
+
+- name: Install openjdk-8-jdk for nexus
+  apt:
+    name: openjdk-8-jdk
+    state: present
+
+- name: Add the user nexus
+  user:
+    name: nexus
+    update_password: on_create # on_create or always
+    comment: nexus
+    home: /opt/nexus
+    password: "{{ password | password_hash('sha512') }}" 
+    state: present
+
+- name: Check of nexus is already download
+  stat:
+    path: /opt/nexus/nexus-3.29.2-02-unix.tar.gz
+  register: nexus_found
+
+- name: Download nexus pkg
+  get_url:
+    url: https://sonatype-download.global.ssl.fastly.net/repository/downloads-prod-group/3/nexus-3.29.2-02-unix.tar.gz
+    dest: /opt/nexus
+  when: not nexus_found.stat.exists
+
+- name: Extract nexus pkg
+  unarchive:
+    src: /opt/nexus/nexus-3.29.2-02-unix.tar.gz
+    dest: /opt/nexus
+  when: not nexus_found.stat.exists
+
+- name: Change nexus ownership
+  file:
+    path: /opt/nexus/nexus-3.29.2-02
+    state: directory
+    recurse: 'True'
+    owner: nexus
+    group: nexus
+
+- name: setting nexus user to nexus
+  ansible.builtin.lineinfile:
+    path: /opt/nexus/nexus-3.29.2-02/bin/nexus.rc
+    regexp: '^run_as_user= '
+    insertafter: '^#run_as_user= '
+    line: run_as_user="nexus"
+
+- name: Copy file nexus.vmoptions
+  ansible.builtin.copy:
+    src: ./nexus.vmoptions
+    dest: /opt/nexus/nexus-3.29.2-02/bin/nexus.vmoptions
+    owner: nexus
+    group: nexus
+    
+
+- name: start nexus
+  become_user: nexus
+  shell: "/opt/nexus/nexus-3.29.2-02/bin/nexus run"
+    

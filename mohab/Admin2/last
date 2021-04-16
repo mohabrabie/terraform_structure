@@ -1,0 +1,83 @@
+1- ifconfig   
+   ip addr show wlp1s0
+
+2- ifconfig
+
+3- ifconfig -a
+
+4- ifdown wlp1s0
+
+5- vi  /etc/sysconfig/network-scripts/ifcfg-wlp1s0
+BOOTPROTO=static
+IPADDR=192.168.1.15
+GATEWAY=192.168.1.1
+DNS1=192.168.1.1
+DNS2=8.8.8.8
+DNS3=8.8.4.4
+
+6- ifup wlp1s0
+
+7- ifconfig
+
+8- vi  /etc/sysconfig/network-scripts/ifcfg-wlp1s0
+BOOTPROTO=DHCP
+ONBOOT=yes
+
+systemctl restart NetworkManager.service
+ifconfig
+
+9-ifconfig
+
+10- vi /etc/sysconfig/network
+change GATEWAY field
+
+11-sudo ip addr add 192.168.1.100/24 dev wlp2s0
+sudo ip addr add 192.168.1.101/24 dev wlp2s0
+then   -> systemctl restart NetworkManager.service
+verify -> ifconfig or ip a s wlp2s0
+
+12-vi /etc/sysconfig/network
+then change HOSTNAME field
+
+13- true
+
+14-sudo yum search gnuplot
+
+15-sudo yum info gnuplot
+
+16-sudo yum install gnuplot
+
+17-sudo yum remove gnuplot
+
+18-How many packages would be removed(1)
+
+19-sudo yum remove gnuplot
+
+20-How many packages would be removed(1)
+
+21-Using rpm:
+
+22-yum list
+
+23-rpm -ql initscripts
+
+24-rpm -qi bash
+
+25-rpm -v pam
+
+26-yum list | grep gnome
+
+27-mount the CD-ROM
+change to the RPMS directory in the CD-ROM: cd /mnt/cdrom/RedHat/RPMS
+rpm  -ivh  *.rpm
+
+28-installed Krita
+
+29-vi /etc/yum.repos.d/cdrom.repo
+add
+[Myrepo]
+name= my repository
+baseurl=file:///mnt/cdrom/RedHat/RPMS/initscripts
+gpgcheck=0
+
+30-sudo yum install Myrepo

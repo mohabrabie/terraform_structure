@@ -1,0 +1,9 @@
+- hosts: localhost
+  # remote_user: ubuntu
+  become: yes
+  vars_prompt:
+    name: password
+    prompt: "Enter password for the account of nexus"
+  roles:
+    - myrole
+    

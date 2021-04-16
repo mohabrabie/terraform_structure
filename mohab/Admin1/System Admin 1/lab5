@@ -1,0 +1,97 @@
+1. Install Packages called ncompress,ksh.
+
+sudo dnf install ncompress
+sudo dnf install ksh
+
+2. Compress a file by gzip, bzip2 commands and decompress it again.
+
+touch file1 file2 file3
+tar -cvf file.tar .
+
+gzip file.tar
+gunzip file.tar.gz
+
+bzip2 file.tar
+bunzip2 file.tar.bz2
+
+3. List the directories that have 777 Permissions in the system.
+
+find / -perm 777 -a -type d > dir_777 2> /dev/null   (-o -not other operators)
+
+or
+
+find / -perm 777 | tee dir_777 | ls -R  2> /dev/null
+
+4. Remove package ncompress and ksh.	
+
+sudo dnf remove ksh
+
+5. Install Vlc , Vscode ,Atom ,Krita, Google Chrome ,Libre office, zoom and teams.
+
+done
+
+					------------------------------------------------------------------------------------------
+
+3. Backup /etc directory using tar utility.
+
+tar -cvf lab_5_files/etc_bak.tar /etc (note that the source is relative, not absolute)
+
+4. Starting from your home directory, find all files that were modified in the last two day.
+
+find / -mtime 2 2> /dev/null
+
+5. Starting from /etc, find files owned by root user.
+
+find /etc -user root
+
+6. Find all directories in your home directory.
+
+find /home/ahmed -type d 2> /dev/null
+
+7. Write a command to search for all files on the system that, its name is “.profile”.
+
+find / -name .bashrc 2> /dev/null
+
+8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
+
+file /etc/passwd     ---> Ascii text
+file /dev/pts/0	     ---> character special (136/0)
+file /etc            ---> directory
+file /dev/sda        ---> block special (8/0)
+
+9. List the inode numbers of /, /etc, /etc/hosts.
+
+file /            ---> directory  	so  ls -id /           ---> 128
+file /etc         ---> directory        so  ls -id /etc        ---> 268583041
+file /etc/hosts   ---> Ascii text file  so  ls -i /etc/hosts   ---> 268593327
+
+10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the file you copied, and then use these commands again, and check the output.
+
+cp /etc/passwd /home/ahmed/passwd_cpy
+vi /home/ahmed/passwd_cpy  (then added 3 lines: foo, bar and baz)
+diff /etc/passwd /home/ahmed/passwd_cpy
+59a60,62
+> foo
+> bar
+> baz
+
+11. Create a symbolic link of /etc/passwd in /boot.
+
+sudo ln -s /etc/passwd /boot/passwd_link
+
+12. Create a hard link of /etc/passwd in /boot. Could you? Why?
+
+sudo ln /etc/passwd /boot/passwd_link_hard
+No, I couldn't. because they are two different partitions. (to know your partitionss, use 'cat /etc/fstab ')
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+ Import inventory database.
+	mongorestore --db inv  ~/mongodb/day2/inv
+	
+ Display number of products per category.
+
+	db.getCollection('products').aggregate([{ 
+	$match: {category: { $ne: null } } },
+	{ $group: { _id: "$category", products: { $sum: 1 } } },]).pretty()
+
+ Display max category products price.
+
+	db.getCollection('products').aggregate([
+	    { $match: {category: { $ne: null } } },
+	    { $group: {_id: "$category",products: { $sum: 1 } ,totalPrice: { $sum:  "$price"  }}},{ $sort: {totalPrice: -1} },
+	    { $limit: 1 }]).pretty()
+	     
+ Display user ahmed orders populated with product.
+
+	db.getCollection('orders').aggregate([
+	    {$lookup:{from: "users",localField: "userId",foreignField: "_id",as: "orderUser"}},
+	  {$match: { "orderUser.name": { $eq: "ahmed" } }},
+	  {$lookup:{from: "products",localField: "productsIds",foreignField: "_id",as: "productOrderedByUser"}}
+
+ Get user ahemd highest order price.
+
+	db.getCollection('orders').aggregate([
+	    {$lookup:{from: "users",localField: "userId",foreignField: "_id",as: "orderUser"}},
+	    {$match: { "orderUser.name": { $eq: "ahmed" } }},
+	    {$lookup:{from: "products",localField: "productsIds",foreignField: "_id",as: "productOrderedByUser"}},
+	    {$addFields: {orderPrice: {$sum: "$productOrderedByUser.price"}}},
+	    {$sort: { orderPrice: -1 }},{$limit: 1}]).pretty()
