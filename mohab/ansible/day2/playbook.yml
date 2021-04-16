@@ -1,5 +1,0 @@
-- hosts: localhost
-  remote_user: mohab
-  become: yes
-- roles:
-    - myrole

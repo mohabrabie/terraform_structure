@@ -1,7 +1,0 @@
-- name: install java
-  hosts: all
-  become: true
-  remote_user: ubuntu
-  roles:
-    - java
-

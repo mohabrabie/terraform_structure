@@ -1,5 +1,0 @@
-1 create ansible playbook to install jenkins on localhost
-2- create ansible playbook to install nexus on localhost
-3- create two machines on aws
-4- configure ssh to use bastion jump for your vpc CIDR
-5- test your ansible playbooks on the ec2 with inventory containing private ip
